@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xueselin.github.com/sitemap.xml
+Sitemap: https://xueselin.github.com/baidusitemap.xml
